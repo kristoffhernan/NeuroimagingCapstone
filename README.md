@@ -1,1 +1,1 @@
-# NeuroimagingCapston
+# NeuroimagingCapstone
